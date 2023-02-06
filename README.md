@@ -1,5 +1,5 @@
-![My Github stats](https://github-readme-stats.vercel.app/api?username=Windsun6688&show_icons=true)
-
+[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Windsun6688&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/Windsun6688/Windsun6688#gh-dark-mode-only)
+[![My GitHub stats-Light](https://https://github-readme-stats.vercel.app/api?username=Windsun6688&show_icons=true&theme=solarized-light#gh-light-mode-only)](https://github.com/Windsun6688/Windsun6688#gh-light-mode-only)
 <!--
 **Windsun6688/Windsun6688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
