@@ -1,6 +1,3 @@
-### Hi there 👋
-
-### 👨‍💻 Work stats
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=Windsun6688&show_icons=true)
 
 <!--
