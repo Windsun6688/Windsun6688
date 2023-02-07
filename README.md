@@ -5,6 +5,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Windsun6688&layout=compact)](https://github.com/Windsun6688/Windsun6688)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!-- [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=W1ndsun)](https://github.com/Windsun6688/Windsun6688) -->
 <!--
 **Windsun6688/Windsun6688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
