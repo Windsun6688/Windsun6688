@@ -7,6 +7,12 @@
 
 <!--START_SECTION:waka-->
 
+```text
+Python                0 hrs 11 mins   ███████████████████████░░   91.58 %
+Sublime Text Config   0 hrs 1 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+INI                   0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=W1ndsun)](https://github.com/Windsun6688/Windsun6688) -->
