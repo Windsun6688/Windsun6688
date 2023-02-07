@@ -14,8 +14,9 @@ INI                   0 hrs 0 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
-
-<!-- [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=W1ndsun)](https://github.com/Windsun6688/Windsun6688) -->
+<br><br>
+<a href="mailto:WindsunSGT@gmail.com"><img src="https://img.shields.io/badge/Email-WindsunSGT%40gmail.com-orange"></a>
+<a href="https://twitter.com/windsun6688" target="_blank"><img src="https://img.shields.io/badge/Twitter-Windsun6688-informational"></a>
 <!--
 **Windsun6688/Windsun6688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
