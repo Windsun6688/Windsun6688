@@ -1,5 +1,6 @@
-![](https://komarev.com/ghpvc/?username=windsun6688&label=Profile%20views&color=0e75b6&style=for-the-badge)
-### Hi There!
+
+### Hi There! 
+
 
 ### 💾 Github Stats
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Windsun6688&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/Windsun6688/Windsun6688#gh-dark-mode-only)
@@ -14,6 +15,7 @@ INI                   0 hrs 0 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 <!--END_SECTION:waka-->
 <br><br>
+![](https://komarev.com/ghpvc/?username=windsun6688&label=Profile%20views&color=0e75b6&style=flat)
 <a href="mailto:WindsunSGT@gmail.com"><img src="https://img.shields.io/badge/Email-WindsunSGT%40gmail.com-orange"></a>
 <a href="https://twitter.com/windsun6688" target="_blank"><img src="https://img.shields.io/badge/Twitter-Windsun6688-informational"></a>
 <!--
