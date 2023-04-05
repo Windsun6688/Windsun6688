@@ -3,8 +3,7 @@
 
 
 ### 💾 Github Stats
-[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Windsun6688&show_icons=true&theme=github_dark#gh-dark-mode-only)](https://github.com/Windsun6688/Windsun6688#gh-dark-mode-only)
-[![My GitHub stats-Light](https://https://github-readme-stats.vercel.app/api?username=Windsun6688&show_icons=true&theme=solarized-light#gh-light-mode-only)](https://github.com/Windsun6688/Windsun6688#gh-light-mode-only)
+[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=windsun6688&show_icons=true&theme=github_dark#gh-dark-mode-only)]
 
 ### 🕒 Monthly Stats
 <!--START_SECTION:waka-->
