@@ -3,7 +3,7 @@
 
 
 ### 💾 Github Stats
-[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=windsun6688&show_icons=true&theme=github_dark#gh-dark-mode-only)]
+![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=windsun6688&show_icons=true&theme=github_dark#gh-dark-mode-only)
 
 ### 🕒 Monthly Stats
 <!--START_SECTION:waka-->
