@@ -16,6 +16,10 @@ unknown      0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
 <!--END_SECTION:waka-->
+
+### 🎧 Recently Into
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=576851546&title=Recently&nbsp;stats&show_percent=1&number=8&column=2&width=292px)](https://netease-recent-profile.vercel.app/?id=576851546)
+
 <br><br>
 ![](https://komarev.com/ghpvc/?username=windsun6688&label=Profile%20views&color=0e75b6&style=flat)
 <a href="mailto:WindsunSGT@gmail.com"><img src="https://img.shields.io/badge/Email-WindsunSGT%40gmail.com-orange"></a>
