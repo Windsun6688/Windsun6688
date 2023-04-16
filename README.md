@@ -21,7 +21,7 @@ JavaScript            0 hrs 2 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 <!--END_SECTION:waka-->
 
 ### 🎧 Recently Into
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=576851546&title=Recent&nbsp;stats&number=10&column=2&width=292px)](https://netease-recent-profile.vercel.app/?id=576851546)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=576851546&title=Recent&nbsp;stats&number=10&column=2)](https://netease-recent-profile.vercel.app/?id=576851546)
 
 <br><br>
 ![](https://komarev.com/ghpvc/?username=windsun6688&label=Profile%20views&color=0e75b6&style=flat)
