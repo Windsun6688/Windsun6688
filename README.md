@@ -16,8 +16,8 @@ Rust        0 hrs 49 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 <!--END_SECTION:waka-->
 
-### 🎧 Recently Into
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=576851546&title=Recent&nbsp;stats&number=10&column=2)](https://netease-recent-profile.vercel.app/?id=576851546)
+### 💾 Github Stats
+![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=windsun6688&show_icons=true&theme=github_dark#gh-dark-mode-only)
 
 <br><br>
 ![](https://komarev.com/ghpvc/?username=windsun6688&label=Profile%20views&color=0e75b6&style=flat)
