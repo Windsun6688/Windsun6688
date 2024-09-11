@@ -1,10 +1,7 @@
 
-## Hi There! 
+## Hello there.
 ### 🎛️ About Me
 I like doing creative sound synthesis and working on interesting projects.
-
-### 💾 Github Stats
-![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=windsun6688&show_icons=true&theme=github_dark#gh-dark-mode-only)
 
 ### 🕒 Past 30 Days
 <!--START_SECTION:waka-->
