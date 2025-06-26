@@ -8,7 +8,6 @@ I like doing creative sound synthesis and working on interesting projects.
 
 ```txt
 Markdown   0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
-Json       0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
 ```
 
 <!--END_SECTION:waka-->
